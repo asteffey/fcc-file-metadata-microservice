@@ -7,6 +7,6 @@ This is a [freeCodeCamp](https://www.freecodecamp.org/) project to demonstrate a
 Additionally, this project also demonstrates the use of Typescript, Jest, and SuperTest.
 
 This service is currently hosted at:
-https://asteffey-file-metadata-microservice.herokuapp.com/
+https://asteffey-file-metadata.herokuapp.com/
 
 The project requirements can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice.
