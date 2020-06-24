@@ -8,9 +8,7 @@ const server = app.listen(port, () => {
 
 function close () {
   console.log('shutting down server')
-  server.close().then(() => {
-    process.exit(0)
-  })
+  server.close(() => process.exit(0))
 }
 
 process.on('SIGINT', close)
